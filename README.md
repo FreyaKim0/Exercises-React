@@ -1,7 +1,7 @@
 ﻿# Exercises-React
-**[Exercise 1] React basic** 
+**[Exercise 1] Basic react practice** 
 
-![flutter_layouts](./screen_shots/exercise1_basic_react.gif?)
+![basic react](./screenShots/exercise1_basic_react.gif?)
 
 Practice scope:
 * Components
