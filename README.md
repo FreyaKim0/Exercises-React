@@ -1,4 +1,7 @@
 ﻿# Exercises-React
+ **[Exercise 2] React course- Catch of the day** 
+ ![basic react](./screenShots/exercise1_basic_react.gif?)
+ 
 **[Exercise 1] Basic react practice** 
 
 ![basic react](./screenShots/exercise1_basic_react.gif?)
