@@ -2,7 +2,7 @@
  **[Exercise 2] React course- Catch of the day (Course: https://courses.wesbos.com/)**
  <br>View on Netlify
  
- ![basic react](./screenShots/exercise2_catchOf TheDay.PNG?)
+ ![catch_of_the_day](./screenShots/exercise2_catchOfTheDay.PNG?)
  
 
  Practice scope:
