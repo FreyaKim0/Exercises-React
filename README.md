@@ -17,6 +17,8 @@
 * Persisting state with firebase
 * Authentication (third party login)
 * Build and Deployment 
+
+----------------------------------------------------------------------------------------
  
 **[Exercise 1] Basic react practice (Course: https://codewithmosh.com/p/mastering-react)** 
 
