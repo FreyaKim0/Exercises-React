@@ -1,7 +1,10 @@
 ﻿# Exercises-React
  **[Exercise 2] React course- Catch of the day (Course: https://courses.wesbos.com/)**
- View on Netlify
+ <br>View on Netlify
  
+ ![basic react](./screenShots/exercise2_catchOf TheDay.PNG?)
+ 
+
  Practice scope:
 * JSX
 * Loading CSS into react app
