@@ -1,6 +1,6 @@
 ﻿# Exercises-React
  **[Exercise 2] React course- Catch of the day (Tutor: https://courses.wesbos.com/)**
- <br>View on Netlify
+ **[View on Heroku](https://relaxed-hodgkin-bc2f0a.netlify.app/)**<br>
  
  ![catch_of_the_day](./screenShots/exercise2_catch_of_the_day.gif?)
  
