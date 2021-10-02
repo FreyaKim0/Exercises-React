@@ -1,5 +1,5 @@
 ﻿# Exercises-React
- **[Exercise 2] React course- Catch of the day (Tutor: https://courses.wesbos.com/)**<br>
+ **[Exercise 2] React course- Catch of the day (Tutor: https://wesbos.com/)**<br>
  **[View on Netlify](https://relaxed-hodgkin-bc2f0a.netlify.app/)**<br>
  
  ![catch_of_the_day](./screenShots/exercise2_catch_of_the_day.gif?)
@@ -20,7 +20,7 @@
 
 ----------------------------------------------------------------------------------------
  
-**[Exercise 1] React course- Basic react practice (Tutor: https://codewithmosh.com/p/mastering-react)** 
+**[Exercise 1] React course- Basic react practice (Tutor: https://codewithmosh.com)** 
 
 ![basic react](./screenShots/exercise1_basic_react.gif?)
 
