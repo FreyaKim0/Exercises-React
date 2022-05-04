@@ -1,4 +1,15 @@
 ﻿# Exercises-React
+ **[Exercise 3] React.js User Login Authentication**<br>
+ 
+ ![basic_auth0](./screenShots/exercise3_basic_auth0.gif?)
+ 
+
+ Practice scope:
+* Auth0 Login/Logout
+* Show Loading...
+* Render Components Based on Auth
+
+----------------------------------------------------------------------------------------
  **[Exercise 2] React course- Catch of the day (Tutor: https://wesbos.com/)**<br>
  **[View on Netlify](https://relaxed-hodgkin-bc2f0a.netlify.app/)**<br>
  
