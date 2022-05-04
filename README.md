@@ -1,5 +1,5 @@
 ﻿# Exercises-React
- **[Exercise 3] React.js User Login Authentication**<br>
+ **[Exercise 3] React.js Auth0 User Login/Logout**<br>
  
  ![basic_auth0](./screenShots/exercise3_basic_auth0.GIF?)
  
